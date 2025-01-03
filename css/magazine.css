@@ -422,8 +422,8 @@ video{
     left: 0;
     background: radial-gradient(
         circle,
-        rgba(26, 56, 2, 0.1) 10%,     
-        rgba(26, 56, 2, 0.8) 80%       
+        rgba(85, 5, 2, 0.1) 10%,     
+        rgba(107, 107, 107, 0.8) 80%       
 
     );
 }
@@ -885,9 +885,9 @@ video{
 	height: 150px;
 	width: 450px;
 	opacity: 0.8;
-	border: 2px solid rgb(147, 201, 21);
+	border: 2px solid rgb(182, 62, 26);
 	border-radius: 10px;
-	background:rgba(132, 207, 11, 0.5);
+	background:rgba(241, 53, 6, 0.5);
 	position: fixed;
 }
 .responsive-icons .r-icon img{
@@ -987,7 +987,7 @@ video{
 	}
 	video,.capa{
 		width: 210vw !important; 
-
+		
 	}
 	.magazine-viewport{
 		position: relative !important;
